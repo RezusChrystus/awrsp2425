@@ -9,8 +9,9 @@ public class Main {
         * feature/Project_ZM_4567_FormUpdate
         *
         * */
-        for (int i = 0; i <1; i++) {
-            System.out.println(i);
+        for (int i = 0; i <10; i++) {
+            System.out.println("Hello for the : "+i+" time");
+
         }
         System.out.println("It works!");
     }
