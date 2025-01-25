@@ -10,7 +10,7 @@ public class Main {
         *
         * */
         for (int i = 0; i <1; i++) {
-
+            System.out.println(i);
         }
         System.out.println("It works!");
     }
